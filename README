@@ -1,1 +1,2 @@
 It was developed along with Mukul Gupta (bestofmukul@gmail.com).
+Some NLP based tools like Stanford POS tagger, Lexicalized Parser were used, along with JSoup APIs for HTML text processing.
